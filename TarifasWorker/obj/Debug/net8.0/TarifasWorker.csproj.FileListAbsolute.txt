@@ -1,0 +1,5 @@
+C:\Users\Guilherme Ramos\source\repos\Teste-Desenvolvedor-CSharp-API-v4\TarifasWorker\obj\Debug\net8.0\TarifasWorker.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\source\repos\Teste-Desenvolvedor-CSharp-API-v4\TarifasWorker\obj\Debug\net8.0\TarifasWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Ramos\source\repos\Teste-Desenvolvedor-CSharp-API-v4\TarifasWorker\obj\Debug\net8.0\TarifasWorker.AssemblyInfoInputs.cache
+C:\Users\Guilherme Ramos\source\repos\Teste-Desenvolvedor-CSharp-API-v4\TarifasWorker\obj\Debug\net8.0\TarifasWorker.AssemblyInfo.cs
+C:\Users\Guilherme Ramos\source\repos\Teste-Desenvolvedor-CSharp-API-v4\TarifasWorker\obj\Debug\net8.0\TarifasWorker.csproj.CoreCompileInputs.cache
