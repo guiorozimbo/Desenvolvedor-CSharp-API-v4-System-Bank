@@ -1,6 +1,6 @@
 # Sistema Bancário API
 **Desenvolvedor:** Guilherme Ramos  
-**Repositório:** https://github.com/guiorozimbo/Desenvolvedor-CSharp-API-v4-System-Bank/tree/main
+**Repositório:** https://github.com/guiorozimbo/Desenvolvedor-CSharp-API-v4-System-Bank
 
 ---
 
