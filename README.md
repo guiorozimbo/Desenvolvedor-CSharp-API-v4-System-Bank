@@ -23,7 +23,7 @@ Principais funcionalidades:
 ---
 
 ## 📚 Tecnologias
-- .NET 6+/7+
+- .NET 8
 - ASP.NET Core Web API
 - Entity Framework Core
 - JwtBearer (Microsoft.AspNetCore.Authentication.JwtBearer)
